@@ -1,0 +1,15 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "`<script src=\"https://cdn.jsdelivr.net/npm/@tensorflow/tfjs/dist/tf.min.js\"></script >`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.5.1",
+    "@tensorflow/tfjs-node": "^1.5.1"
+  }
+}
